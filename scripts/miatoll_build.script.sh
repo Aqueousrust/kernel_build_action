@@ -36,7 +36,7 @@ CODENAME="Miatoll"
 export CODENAME
 # DEFCONFIG=""
 #DEFCONFIG_COMMON="vendor/msm8953-romi_defconfig"
-DEFCONFIG_DEVICE="cust_defconfig"
+DEFCONFIG_DEVICE="atoll_defconfig"
 #export DEFCONFIG_COMMON
 export DEFCONFIG_DEVICE
 COMMIT_HASH=$(git rev-parse --short HEAD)
